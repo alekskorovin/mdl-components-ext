@@ -1,0 +1,25 @@
+{
+  "name": "mdl-selectfield",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Gixx/mdl-components-ext",
+  "authors": [
+    "Gabor Ivan"
+  ],
+  "description": "File input MDL component. v1.0 for material-design-lite",
+  "main": [
+    "material.file.min.css",
+    "material.file.min.js"
+  ],
+  "keywords": [
+    "material",
+    "design",
+    "styleguide",
+    "style",
+    "guide",
+    "mdl",
+    "file"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.0.4"
+  }
+}
