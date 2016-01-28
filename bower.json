@@ -7,7 +7,7 @@
   ],
   "description": "File input MDL component. v1.0 for material-design-lite",
   "main": [
-    "material.file.min.css",
+    "material.file.css",
     "material.file.min.js"
   ],
   "keywords": [
@@ -18,6 +18,10 @@
     "guide",
     "mdl",
     "file"
+  ],
+  "ignore": [
+    "library",
+    "vendor"
   ],
   "dependencies": {
     "material-design-lite": "~1.0.4"
