@@ -20,6 +20,7 @@
     "file"
   ],
   "ignore": [
+    **/.*",
     "library",
     "vendor"
   ],
